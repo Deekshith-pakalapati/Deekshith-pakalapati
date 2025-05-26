@@ -31,3 +31,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deekshith-pakalapati&show_icons=true&locale=en" alt="deekshith-pakalapati" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deekshith-pakalapati&" alt="deekshith-pakalapati" /></p>
+
+<div aligh="center">
+  
+![snake gif](https://github.com/Deekshith-pakalapati/Deekshith-pakalapati/blob/output/github-snake-dark.svg)
+</div>

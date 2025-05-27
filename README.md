@@ -1,7 +1,7 @@
 [![MasterHead](https://maruf001-mt.github.io/Premium-Delivery/web.gif)](http://Deekshith-pakalapati.io) 
 <h1 align="center">Hi 👋, I'm Deekshith Pakalapati</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="500"height="300" margin-top="400px"src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+<img align="right" alt="Coding" width="550"height="250" margin-top="-100%"src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deekshith-pakalapati&label=Profile%20views&color=0e75b6&style=flat" alt="deekshith-pakalapati" /> </p>
 

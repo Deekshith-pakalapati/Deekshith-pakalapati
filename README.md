@@ -37,4 +37,7 @@
   ![snake gif](https://github.com/Deekshith-pakalapati/Deekshith-pakalapati/blob/output/github-snake-dark.svg)
 
 </div>
+<h3 aligh="left">Projects</h3>
+<h3>Portfolio</h3>
+<a href=""
 

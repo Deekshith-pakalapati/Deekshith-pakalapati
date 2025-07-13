@@ -37,7 +37,7 @@
   ![snake gif](https://github.com/Deekshith-pakalapati/Deekshith-pakalapati/blob/output/github-snake-dark.svg)
 
 </div>
-<h3 aligh="left">Projects</h3>
-<h3>Portfolio:<a href="https://deekshith-pakalapati-portfolio.netlify.app/"></a></h3>
+<h3 aligh="left">Projects Section</h3>
+<h3><a href="https://deekshith-pakalapati-portfolio.netlify.app/">Portfolio</a></h3>
 
 

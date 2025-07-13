@@ -37,7 +37,14 @@
   ![snake gif](https://github.com/Deekshith-pakalapati/Deekshith-pakalapati/blob/output/github-snake-dark.svg)
 
 </div>
-<h3 aligh="left">Projects Section</h3>
-<h3><a href="https://deekshith-pakalapati-portfolio.netlify.app/">Portfolio</a></h3>
 
+<h2 aligh="center">Projects Section</h2>
+<h3><a href="https://deekshith-pakalapati-portfolio.netlify.app/">Portfolio</a></h3>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/78a97163065537.5aa76fff8bb77.gif" width=1000 height=400 >
+<h3><a href="https://deekshith-pakalapati-jarvis.netlify.app/" margin-left=-200px>Jarvis</a></h3>
+<img src="https://camo.githubusercontent.com/5f510f7d4bf036d9870f4ff750235119e43a1df6546efd6d9e1842bc8107bf55/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3231322f3231323530382e676966" width=1000 height=400>
+<h3><a href="https://deekshith-pakalapati-chatbot.netlify.app/">Chatbot</a></h3>
+<img src="https://www.chatbot.com/images/og-images/home.aa2c476e7cf553fd023c752da13cacd62d476d422f302e4a340f76e1d8e7101c.jpg"width=1000 height=400>
+<h3><a href="https://deekshith-pakalapati-otp.netlify.app/">Otp Authentication</h3>
+<img src="https://user-images.githubusercontent.com/37796466/120930941-a7e75e80-c719-11eb-9d4a-845eeed8497b.png" width=1000 height=400>
 

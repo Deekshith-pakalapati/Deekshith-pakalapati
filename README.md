@@ -38,6 +38,6 @@
 
 </div>
 <h3 aligh="left">Projects</h3>
-<h3>Portfolio</h3>
-<a href=""
+<h3>Portfolio:<a href="https://deekshith-pakalapati-portfolio.netlify.app/"></a></h3>
+
 
